@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.5.0
+
+### Minor Changes
+
+- [`ab91265`](https://github.com/changesets/action/commit/ab91265b475c470250b055d55c8259aaf50d29a0) Thanks [@arthurfiorette](https://github.com/arthurfiorette)! - Add draftGithubReleases
+
 ## 1.4.9
 
 ### Patch Changes
