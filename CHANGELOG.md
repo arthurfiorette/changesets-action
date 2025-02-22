@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.5.1
+
+### Patch Changes
+
+- [`26aad4a`](https://github.com/changesets/action/commit/26aad4a692aa9d43f9e237c2caed8956280773f2) Thanks [@arthurfiorette](https://github.com/arthurfiorette)! - Trigger release
+
 ## 1.5.0
 
 ### Minor Changes
